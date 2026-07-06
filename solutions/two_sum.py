@@ -1,7 +1,3 @@
-# Approach: Hash map
-# Time: O(n)
-# Space: O(n)
-
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         lookup = {}
